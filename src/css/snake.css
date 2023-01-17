@@ -1,0 +1,15 @@
+#snake-game-div {
+  width: 50%;
+  margin-left : 25%;
+  margin-top : 10%;
+}
+
+.snake-game-row-div {
+  float: left;
+}
+
+.snake-game-cell-div {
+  border : 1px solid black;
+  height : 50px;
+  width : 50px;
+}
