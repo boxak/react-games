@@ -1,7 +1,13 @@
 #snake-game-div {
   width: 50%;
+  height: 63vh;
   margin-left : 25%;
   margin-top : 10%;
+}
+
+#snake-game-display {
+  height: 100%;
+  width: 100%;
 }
 
 .snake-game-row-div {
@@ -13,3 +19,7 @@
   height : 50px;
   width : 50px;
 }
+
+/* .snake {
+  background-color: black;
+} */
